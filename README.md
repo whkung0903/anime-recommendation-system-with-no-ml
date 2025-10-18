@@ -1,5 +1,5 @@
 # Anime Recommendation System Analysis
-Project Manager: Grace Kung
+**Project Manager: Grace Kung (Me)**
 
 Group Members: Allen Chiu, Maggie Croghan, Emily Su, Pin-Chen Kuo, Hannie Han
 
@@ -54,6 +54,6 @@ Given users’ consistent behavior and high rating stability (low variance withi
 
 Key predictive features: Genre, Type, and Source.
 
-V. Strategic Implication
+**V. Strategic Implication**
 
 Platforms should prioritize content diversity within high-performing genres and sources, and refine their recommendation systems around item attributes rather than user demographics or viewing time. This approach maximizes relevance and scalability while aligning with audience preferences.
