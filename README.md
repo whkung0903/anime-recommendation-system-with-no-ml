@@ -6,12 +6,12 @@ Group Members: Allen Chiu, Maggie Croghan, Emily Su, Pin-Chen Kuo, Hannie Han
 A data science project analyzing anime ratings, genres, and user preferences to build a recommendation system.
 This project explores data preprocessing, visualization, and collaborative filtering techniques to recommend anime titles based on user behavior.
 
-**##📘 Project Overview**
+## **📘 Project Overview**
 
 This notebook performs a full analysis of an anime dataset to uncover patterns and build recommendation models.
 It covers exploratory data analysis (EDA), feature engineering, and the implementation of various recommendation approaches.
 
-**##📊 Dataset**
+## **📊 Dataset**
 
 The dataset used is from [Anime Recommendation Database](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?select=final_animedataset.csv) (Kaggle)
 
@@ -20,7 +20,7 @@ It contains:
 * Anime information: title, genre, episodes, members, and ratings
 * User ratings: user ID, anime ID, and rating (1–10 scale)
 
-**##🧠 Methodology**
+## **🧠 Methodology**
 
 1. Data Cleaning
 * Handle missing and inconsistent data
@@ -31,7 +31,7 @@ It contains:
 3. Result Visualization
 * Genre heatmaps, top-N recommendations, and rating patterns
 
-**##📈 Results Summary**
+## **📈 Results Summary**
 **I. Audience Insights**
 
 The majority of users are aged 25–39, mainly located in Europe and North America. Their rating behaviors are consistent across region, gender, and age, indicating no significant demographic segmentation in anime preferences.
